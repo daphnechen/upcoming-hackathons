@@ -520,7 +520,6 @@ var hackathons = {
             "lon": "-84.3233",
             "date": ["10.16", "10.18"]
         },
-        }
         {
             "name": "VR Hackathon Albania",
             "link": "http://vrhackathon.com/albania.html",
