@@ -513,6 +513,15 @@ var hackathons = {
             "date": ["10.16", "10.18"]
         },
         {
+            "name": "Hack ATL",
+            "link": "http://hackatl.org/",
+            "location": "Atlanta, GA",
+            "lat": "33.7911",
+            "lon": "-84.3233",
+            "date": ["10.16", "10.18"]
+        },
+        }
+        {
             "name": "VR Hackathon Albania",
             "link": "http://vrhackathon.com/albania.html",
             "location": "Tirana, Albania",
